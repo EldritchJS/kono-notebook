@@ -1,0 +1,10 @@
+ujson
+numpy
+matplotlib
+seaborn
+pandas
+nltk
+vaderSentiment
+jupyter
+requests
+
